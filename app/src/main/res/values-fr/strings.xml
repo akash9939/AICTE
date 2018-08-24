@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lang</string>
+    <string name="thank_you">Je vous remercie</string>
+    <string name="rural">RURAL</string>
+    <string name="craft">CRAFT</string>
+    <string name="signin">SE CONNECTER</string>
+    <string name="forgotpassword">MOT DE PASSE OUBLIÉ</string>
+    <string name="Donthaveanaccount">N'ONT PAS DE COMPTE??</string>
+
+</resources>

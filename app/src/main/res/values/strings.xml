@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lang</string>
+    <string name="thank_you">Thank you</string>
+    <string name="rural">RURAL</string>
+    <string name="craft">CRAFT</string>
+    <string name="signin">SIGNIN</string>
+    <string name="forgotpassword">FORGOT PASSWORD</string>
+    <string name="Donthaveanaccount">DON'T HAVE AN ACCOUNT??</string>
+
+</resources>

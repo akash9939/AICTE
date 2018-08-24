@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lang</string>
+    <string name="thank_you">
+ਤੁਹਾਡਾ ਧੰਨਵਾਦ</string>
+    <string name="rural">RURAL</string>
+    <string name="craft">CRAFT</string>
+    <string name="signin">ਸਾਈਨ - ਇਨ</string>
+    <string name="forgotpassword">ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ</string>
+    <string name="Donthaveanaccount">ਇੱਕ ਖਾਤਾ ਨਹੀਂ ਹੈ??</string>
+
+</resources>
